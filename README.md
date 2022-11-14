@@ -2,10 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-checkpoint:
-https://www.youtube.com/watch?v=nb6p9cRM9kw&list=PLU4DS8KR-LJ3-zouYHHknPq1G5VTB8PRf&index=17
-https://github.com/prawito/basic-nextjs
-
 First, run the development server:
 
 ```bash
